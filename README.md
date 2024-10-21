@@ -3,7 +3,7 @@ This is a node.js repo for Edge DX – Cloud QA Automation
 
 ## Installation
 ```bash
-git clone https://github.com/lavanyapetchetti/ControlUp.git
+git clone https://github.com/lavanyapetchetti/controlUp.git
 npm install
 ```
 ## Running tests on your laptop
