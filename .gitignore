@@ -1,0 +1,11 @@
+#unwanted junk file and logs
+node_modules/
+*.log
+*.tmp
+log/*
+test-results/
+*.html
+.DS_Store
+.idea
+workspace.xml
+package-lock.json
