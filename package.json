@@ -1,0 +1,28 @@
+{
+  "name": "controlup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha --timeout 20000"
+  },
+  "keywords": [
+    "api",
+    "automation",
+    "axios",
+    "mocha",
+    "cahi",
+    "javascript"
+  ],
+  "author": "Lavanya Petchetti",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "axios": "^1.7.7",
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}

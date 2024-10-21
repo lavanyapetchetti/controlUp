@@ -1,0 +1,5 @@
+baseUrl: "https://tripadvisor16.p.rapidapi.com/api/v1"
+headers:
+  Content-Type: "application/json"
+  x-rapidapi-host: 'tripadvisor16.p.rapidapi.com'
+  x-rapidapi-key: '071a70c067msh08d24fe0aabfca9p175baejsnaf56eaa2355c'
