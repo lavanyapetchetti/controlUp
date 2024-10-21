@@ -1,3 +1,4 @@
+//Test that will print out cruises with destination “Caribbean” and sort them by number of crew
 import api from '../src/api.js';
 import { expect } from 'chai';
 
